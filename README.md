@@ -71,9 +71,9 @@ Enhance interactivity with simple hover effects like border changes or backgroun
 </html>
 ```
 ## Output:
-![Screenshot 2025-07-08 120604](https://github.com/user-attachments/assets/4a556f14-ee0f-4952-a53f-99bc4ef35a29)
+![image](https://github.com/user-attachments/assets/34576319-1fd2-4759-bf65-401aade19892)
+![image](https://github.com/user-attachments/assets/23c5d592-545c-4c66-a455-5d00e81a2a0d)
 
-![image](https://github.com/user-attachments/assets/85c552ce-8b00-43e7-86ae-d189ae5dce7e)
 
 ## Result:
 A visually appealing profile card that demonstrates the use of background color, typography, spacing, and layout alignment techniques is designed.
